@@ -23,4 +23,4 @@
 </div>
 
 
-![Snake animation](https://github.com/imfelipebtw/imfelipebtw/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/imfelipebtw/blob/output/github-contribution-grid-snake.svg)
