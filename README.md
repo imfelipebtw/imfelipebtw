@@ -1,6 +1,6 @@
 ### olá! pode me chamar de felipe. :)
 
-- 🔭 procurando uma oportunidade de emprego na vaga de dev júnior
+- 🔭 procurando uma oportunidade de emprego na vaga de dev júnior front-end
 - 📖 estudando desenvolvimento web com Javascript
 - 💬 pronomes: ele/dele
 
