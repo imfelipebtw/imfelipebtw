@@ -3,6 +3,7 @@
 - 🔭 procurando uma oportunidade de emprego na vaga de dev júnior front-end
 - 📖 atualmente estudando Java, PHP e Python
 - 💻 conhecimento em JavaScript, HTML e CSS
+- 🌆 cursando 2º período de sistemas da informação pela unifacol-pe
 - 💬 pronomes: ele/dele
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=imfelipebtw&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
