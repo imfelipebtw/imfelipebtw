@@ -1,7 +1,8 @@
 ### olá! pode me chamar de felipe. :)
 
 - 🔭 procurando uma oportunidade de emprego na vaga de dev júnior front-end
-- 📖 atualmente estudando JavaScript e PHP
+- 📖 atualmente estudando Java, PHP e Python
+- 💻 conhecimento em JavaScript, HTML e CSS
 - 💬 pronomes: ele/dele
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=imfelipebtw&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
