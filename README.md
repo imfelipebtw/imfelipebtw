@@ -1,4 +1,4 @@
-### olá! pode me chamar de felipe. :)
+### Olá! pode me chamar de Felipe. :)
 
 - 🔭 Trabalhando no cargo de designer na empresa NBG Digital
 - 📖 Atualmente estudando Design e Programação.
